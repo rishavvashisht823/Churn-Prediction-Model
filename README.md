@@ -1,6 +1,5 @@
 # Churn-Prediction-Model
 
-# Churn Prediction Project
 
 ## Overview
 This project focuses on predicting customer churn using a structured machine learning approach. Built using Python and executed in Google Colab, the model aims to identify customers likely to discontinue services, enabling the business to proactively improve retention.
