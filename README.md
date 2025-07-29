@@ -55,9 +55,10 @@ This project focuses on predicting customer churn using a structured machine lea
 - **Net revenue impact**: ₹13,70,000
 
 ## Deliverables
-- `Churn_Prediction_Report.docx`: Detailed project report
-- `Churn_Prediction_Presentation.pptx`: Executive summary presentation
-- Visuals for EDA and model evaluation (confusion matrix, ROC curve, feature importance)
+## Deliverables
+- 📄 [Churn_Prediction_Report.docx](./Churn_Prediction_Report.docx): Detailed project report  
+- 📊 [Churn_Prediction_Presentation.pptx](./Churn_Prediction_Presentation.pptx): Executive summary presentation  
+- 🧾 [Churn_Prediction_Notebook.ipynb](https://colab.research.google.com/drive/1AI18-GCkazuVSSUwYmUNPhbYmpYUtQTK?usp=sharing): Complete Jupyter Notebook (hosted on Colab)
 
 ## Future Work
 - Tune thresholds and try ensemble models (XGBoost, LightGBM)
