@@ -69,5 +69,5 @@ This project focuses on predicting customer churn using a structured machine lea
 
 ---
 
-**Author**: [Your Name]  
-**Institution**: IIM/Wharton-level Academic Project
+**Author**: [Rishav Vashisht]  
+
